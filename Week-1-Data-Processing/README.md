@@ -29,7 +29,13 @@ The project demonstrates how raw data can be organized, cleaned, and processed t
 | `main.py` | Main Python application |
 | `students.csv` | Sample student marks dataset |
 | `requirements.txt` | Required Python library |
-| `Student_Marks_Data_Processing.ipynb` | Interactive notebook containing the implementation |
+| `Student_Marks_Data_Processing.ipynb` | Interactive Google Colab notebook |
+
+### Google Colab Notebook
+
+[Open Student Marks Data Processing in Google Colab](https://colab.research.google.com/drive/1DEjyj2uRUr_jWohekYm082I1uHV5WT77?usp=sharing)
+
+The notebook contains the complete implementation, including data loading, cleaning, NumPy processing, and the final report.
 
 ## Data Cleaning
 
