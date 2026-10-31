@@ -30,10 +30,12 @@ The technologies used will grow as I progress through the program.
 
 ## Weekly Projects
 
-| Week | Project | Description | Status |
-|---|---|---|---|
-| Week 1 | [Student Marks Data Processing](./Week-1-Data-Processing/) | Loading, cleaning, and analyzing student marks using Python, CSV, and NumPy. | Completed |
-| Week 2 | Coming soon | Upcoming weekly assignment. | Pending |
+| Week | Project | Description | Resources | Status |
+|---|---|---|---|---|
+| Week 1 | Student Marks Data Processing | Loading, cleaning, and analyzing student marks using Python, CSV, and NumPy. | [GitHub Files](./Week-1-Data-Processing/) · [Google Colab](https://colab.research.google.com/drive/1DEjyj2uRUr_jWohekYm082I1uHV5WT77?usp=sharing) | Completed |
+| Week 2 | Coming Soon | Upcoming weekly assignment. | — | Pending |
+
+Each weekly project includes its source code, documentation, datasets, and supporting resources.
 
 ## Repository Structure
 
