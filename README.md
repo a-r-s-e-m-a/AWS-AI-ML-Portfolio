@@ -1,7 +1,7 @@
 # AWS AI & ML Portfolio
 
 <p align="center">
-  <strong>Weekly Projects | Python | Artificial Intelligence | Machine Learning</strong>
+  <strong>Weekly-Projects | Python | Artificial Intelligence | Machine Learning</strong>
 </p>
 
 <p align="center">
