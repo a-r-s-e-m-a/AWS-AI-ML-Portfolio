@@ -33,7 +33,7 @@ The technologies used will grow as I progress through the program.
 | Week | Project | Description | Resources | Status |
 |---|---|---|---|---|
 | Week 1 | Student Marks Data Processing | Loading, cleaning, and analyzing student marks using Python, CSV, and NumPy. | [GitHub Files](./Week-1-Data-Processing/) · [Google Colab](https://colab.research.google.com/drive/1DEjyj2uRUr_jWohekYm082I1uHV5WT77?usp=sharing) | Completed |
-| Week 2 | Coming Soon | Upcoming weekly assignment. | — | Pending |
+| Week 2   | Mini Semantic Search | Building a semantic search system using Python, Pandas, Sentence Transformers, and ChromaDB to find FAQs based on meaning. | [GitHub Files](https://github.com/a-r-s-e-m-a/AWS-AI-ML-Portfolio/tree/main/Week-2-Mini-Semantic-Search) · [Google Colab](https://colab.research.google.com/drive/1JHYjX5BDNN_IPKYbS2Pgb1KQclb4kF3j) | Completed |
 
 Each weekly project includes its source code, documentation, datasets, and supporting resources.
 
